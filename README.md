@@ -68,6 +68,16 @@ receive, avoiding many bugs that are difficult to diagnose.
 As a bonus, **events caused by your code are marked** as such, so you don't respond to them as user
 actions. This feature alone makes a whole new level of sophistication possible.
 
+## Installation
+
+### Carthage
+
+For installation with [Carthage](https://github.com/carthage/carthage), simply add the following to your `Cartfile`:
+
+``` ruby
+github "jorgelopezs/Swindler" "swift4"
+```
+
 ## Example
 
 The following code assigns all windows on the screen to a grid. Note the simplicity and power of the
