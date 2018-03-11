@@ -2,15 +2,18 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:Podfile">
+      location = "group:Carthage/Checkouts/Quick/Quick.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:Swindler.xcodeproj">
+      location = "group:Carthage/Checkouts/PromiseKit/PromiseKit.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:AXSwift/AXSwift.xcodeproj">
+      location = "group:Carthage/Checkouts/Nimble/Nimble.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:Pods/Pods.xcodeproj">
+      location = "group:Carthage/Checkouts/AXSwift/AXSwift.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "container:Swindler.xcodeproj">
    </FileRef>
 </Workspace>
